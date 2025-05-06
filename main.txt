@@ -1,6 +1,0 @@
-def main():
-    print("Hello from text-2-speech!")
-
-
-if __name__ == "__main__":
-    main()

@@ -35,4 +35,4 @@ class Summarization:
     @bentoml.api
     def summarize(self, text: str = EXAMPLE_INPUT) -> str:
         result = self.pipeline(text)
-        return f"Hello world! Here's your summary: {result[0]['summary_text']}"
+        return f"Hello! Here's your summary: {result[0]['summary_text']}"

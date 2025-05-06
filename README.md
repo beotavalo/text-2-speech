@@ -75,3 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## References:
 - [Cloud deployment](https://docs.bentoml.com/en/latest/get-started/cloud-deployment.html)
 - [BentoML: MLOps for Beginners](https://www.kdnuggets.com/bentoml-mlops-for-beginners)
+- [BentoML Hello world Example](https://docs.bentoml.com/en/latest/get-started/hello-world.html)
