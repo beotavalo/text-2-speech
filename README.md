@@ -1,4 +1,4 @@
-# Text to Speech Deploymenty with BentoML
+# Text to Speech Deployment with BentoML
 
 This repository provides a framework for deploying a **Text-to-Speech** application using [BentoML cloud](https://www.bentoml.com/), a powerful platform for serving AI models and applications. 
 
